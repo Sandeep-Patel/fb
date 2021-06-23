@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fb1" target="7" />
-      <module name="solutions" target="8" />
+      <module name="solutions" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
